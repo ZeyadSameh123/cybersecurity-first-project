@@ -1,4 +1,4 @@
-# cybersecurity-first-project
+# what is port securoty
 
 # Descriptio 
 Port Security is a technique used to secure network ports by allowing only trusted devices to connect, preventing unauthorized access and protecting the network from 
